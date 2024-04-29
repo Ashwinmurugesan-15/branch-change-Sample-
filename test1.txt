@@ -1,3 +1,51 @@
-crete a github file 
-here is some modified data is here
-then refere it 
+monitoring:
+billing alarm 
+by using the ec2 services
+it will take care of aws services:
+
+x ray:trace summary:
+client     apl    products    customer  specified instance
+
+cloud watch:
+cron job is a sechudler
+
+Rule types:
+alarm event it will  monitor on the aws services
+1)one time sechdule
+it will any function or job
+2)cron based sechdule
+patten how to use a cron(cron for every 5 minutes)
+
+xns:
+ it will configure all	
+
+(subscription) :
+(protocol):
+how to attach the alerts 
+
+cloud trade:
+it will store the data 
+
+secrete manager:
+serveless computing: dynamic DB on demand and provisioning
+services:
+.lambda
+.api
+.s3 bucket
+.cloud format - content delivery network
+
+it has most advantages
+(1)zero cost
+(2)easy to define
+disadvantages
+(1)can't use high end application
+(2)cant able to work in one instance services
+(3)ec2 instance security 
+...it can use only low to end we can use the serveless computing 
+
+...lambda-- run time 
+...api - use url package:   -- check the request
+....s3 bucket - static hosting - it contain the object - run in instance
+
+routes53 <------> apl <-------------> ec2 
+
